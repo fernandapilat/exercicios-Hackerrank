@@ -1,6 +1,11 @@
-# HackerRank
+# **Linguagem SQL**
+Aqui é possível encontrar a documentação com todas as resoluções de exercícios bem como todos os sites utilizados durante a aprendizagem da linguagem SQL.
 
-## Exercícios da trilha prepare do 
+
+## **[HackerRank](https://www.hackerrank.com/)**
+O HackerRank é uma empresa de tecnologia que se concentra em desafios competitivos de programação para o público e empresas, onde os desenvolvedores competem tentando programar de acordo com as especificações fornecidas.
+
+### **Tabela de exercícios resolvidos**
 
 |Índice|Exercício|Nível|
 |--|--|--|
@@ -25,3 +30,8 @@
 |19|Employee Salaries|Fácil|
 |20|Revising Aggregations - The Count Function|Fácil|
 |21|Revising Aggregations - The Sum Function|Fácil|
+|22|Revising Aggregations - Averages|Fácil|
+|23|Average Population|Fácil|
+|24|Japan Population|Fácil|
+|25|Population Density Difference|Fácil|
+|26|The Blunder|Fácil|
