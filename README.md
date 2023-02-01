@@ -1,5 +1,5 @@
 # **Linguagem SQL**
-Aqui é possível encontrar a documentação com todas as resoluções de exercícios bem como todos os sites utilizados durante a aprendizagem da linguagem SQL.
+Neste repositório é possível encontrar a documentação com todas as resoluções de exercícios bem como todos os sites utilizados durante a aprendizagem da linguagem SQL.
 
 
 ## **[HackerRank](https://www.hackerrank.com/)**
